@@ -38,5 +38,5 @@ mvn clean verify
 Contributors names and contact info
 
 * LNasya Syafitrie (https://github.com/LNasyaS)
-* Syafiq Ali Zhafran
+* Syafiq Ali Zhafran (https://github.com/SyafiqAliZ)
 * Widi
