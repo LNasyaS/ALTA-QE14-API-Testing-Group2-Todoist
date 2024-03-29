@@ -1,12 +1,10 @@
-# API Testing Group 2
+# API Automation Testing
 
-This is our group project of API testing using TODOIST website for our QE bootcamp at ALTA.
+This is our group's QA bootcamp project at ALTA that focuses on API testing using TODOIST website. Using Cucumber, Serenity BDD, and RestAssured, we automate testing to guarantee endpoint functionality and validate data responses.
 
 ## Manual Test Case
 
-This is our manual test case spreadsheet link
-
-link
+This is our manual test case spreadsheets [**link**](https://docs.google.com/spreadsheets/d/1ZIuXHxfgmynsKwnt4rx8w-B3bRqIqNazWsW_k3wBNsI/edit?usp=sharing)
 
 ## Report
 
@@ -22,13 +20,19 @@ link
 
 ### Tools and Technology Stack
 
-* xx
-* xx
+* Programming Language: **Java**
+* Behavior-Driven Development (BDD) Tool: **Cucumber**
+* Test Automation and Reporting Library: **Serenity BDD**
+* RESTful API Testing Library: **RestAssured**
+* Build Automation Tool: **Maven**
+* Collaboration Platform: **GitHub**
+* Integrated Development Environment (IDE): **IntelliJ IDEA**
+* API Testing Tool: **Postman**
 
 ## How to Run the Project
 
 * Open Terminal
-* Type code bellow
+* Type and run code bellow
 ```
 mvn clean verify 
 ```
@@ -37,6 +41,6 @@ mvn clean verify
 
 Contributors names and contact info
 
-* LNasya Syafitrie (https://github.com/LNasyaS)
-* Syafiq Ali Zhafran (https://github.com/SyafiqAliZ)
-* Widi
+* LNasya Syafitrie [[**Github**](https://github.com/LNasyaS)]          [[**LinkedIn**](https://linkedin.com/in/lnasyaftre/)]
+* Syafiq Ali Zhafran [[**Github**](https://github.com/SyafiqAliZ)]          [[**LinkedIn**](https://www.linkedin.com/in/syafiq-ali-zhafran/)]
+* Widi Pamungkas [[**Github**](https://github.com/widipamungkas)]          [[**LinkedIn**](https://www.linkedin.com/in/widi-pamungkas-5b87501b7/)]
