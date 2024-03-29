@@ -11,16 +11,16 @@ This is our manual test case spreadsheet [**link**](https://docs.google.com/spre
 
 ### Test Overall
 
-![Result test overall](../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/ResultAll.jpg)
+![Result test overall](/docs/ResultAll.jpg)
 
 ### Test Coverage per Feature
 
 * Feature Projects
-![Result test overall](../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/ResultProjects.jpg)
+![Result test overall](/docs/ResultProjects.jpg)
 * Feature Sections
-![Result test overall](../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/ResultSection.jpg)
+![Result test overall](/docs/ResultSection.jpg)
 * Feature Comments
-![Result test overall](../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/ResultComments.jpg)
+![Result test overall](/docs/ResultComments.jpg)
 
 ### Tools and Technology Stack
 
@@ -45,11 +45,11 @@ mvn clean verify
 
 Contributors names and contact info
 
-* LNasya Syafitrie [<img alt="alt_text" width="20px" src="../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/github_logo.png" />]([link to your URL](https://github.com/LNasyaS))  [<img alt="alt_text" width="20px" src="../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/lnasyaftre/)
+* LNasya Syafitrie [<img alt="alt_text" width="20px" src="/docs/github_logo.png" />]([link to your URL](https://github.com/LNasyaS))  [<img alt="alt_text" width="20px" src="/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/lnasyaftre/)
 
 
-* Syafiq Ali Zhafran [<img alt="alt_text" width="20px" src="../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/github_logo.png" />]([link to your URL](https://github.com/SyafiqAliZ))  [<img alt="alt_text" width="20px" src="../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/syafiq-ali-zhafran/)
+* Syafiq Ali Zhafran [<img alt="alt_text" width="20px" src="/docs/github_logo.png" />]([link to your URL](https://github.com/SyafiqAliZ))  [<img alt="alt_text" width="20px" src="/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/syafiq-ali-zhafran/)
 
 
-* Widi Pamungkas [<img alt="alt_text" width="20px" src="../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/github_logo.png" />]([link to your URL](https://github.com/widipamungkas))  [<img alt="alt_text" width="20px" src="../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/widi-pamungkas-5b87501b7/)
+* Widi Pamungkas [<img alt="alt_text" width="20px" src="/docs/github_logo.png" />]([link to your URL](https://github.com/widipamungkas))  [<img alt="alt_text" width="20px" src="/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/widi-pamungkas-5b87501b7/)
 
