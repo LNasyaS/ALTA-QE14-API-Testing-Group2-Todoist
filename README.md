@@ -1,5 +1,6 @@
 # API Automation Testing
 
+
 This is our group's QE bootcamp project that focuses on API testing with TODOIST website. Using Cucumber, Serenity BDD, and RestAssured, we automate testing to guarantee endpoint functionality and validate data responses.
 
 ## Manual Test Case
@@ -51,3 +52,4 @@ Contributors names and contact info
 
 
 * Widi Pamungkas [<img alt="alt_text" width="20px" src="../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/github_logo.png" />]([link to your URL](https://github.com/widipamungkas))  [<img alt="alt_text" width="20px" src="../ALTA-QE14-API-TESTING-GROUP2-TODOIST/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/widi-pamungkas-5b87501b7/)
+
