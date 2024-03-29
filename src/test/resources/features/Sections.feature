@@ -16,7 +16,7 @@ Feature: Section
     Given Post Create section with invalid json "<json>"
     When Send request post create section
     Then Status code should be 400
-    And Response body error should be "<error>"
+    And Response body error should be contain "<error>"
     Examples:
       | json                  | error                 |
       | InvalidProjectId.json | project_id is invalid |
@@ -36,7 +36,7 @@ Feature: Section
       Given Get single section with invalid section id "sectionid"
       When Send request get single section
       Then Status code should be 404
-      And Response body error should be "Section not found"
+      And Response body error should be contain "Section not found"
 
   @GetAllSection
     Scenario: Get all section with valid project id
@@ -50,7 +50,7 @@ Feature: Section
     Given Get all section with invalid project id "projectid"
     When Send request get all section
     Then Status code should be 400
-    And Response body error should be "project_id is invalid"
+    And Response body error should be contain "project_id is invalid"
 
   @UpdateSection
   Scenario: Update a section

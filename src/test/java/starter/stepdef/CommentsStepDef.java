@@ -101,8 +101,8 @@ public class CommentsStepDef {
         todoistAPIComment.getId(id);
     }
 
-    @And("Response body error should be {string}")
-    public void responseBodyErrorShouldBe(String text) {
+    @And("Response body error should {string}")
+    public void responseBodyErrorShould(String text) {
         assertThat(textResponse,equalTo(text));
     }
 

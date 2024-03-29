@@ -43,8 +43,8 @@ public class SectionsStepDef {
         todoistAPISection.createSection(jsonFile);
     }
 
-    @And("Response body error should be {string}")
-    public void responseBodyErrorShouldBe(String error) {
+    @And("Response body error should be contain {string}")
+    public void responseBodyErrorShouldBeContain(String error) {
         assertThat(textResponse, equalTo(error));
     }
 
