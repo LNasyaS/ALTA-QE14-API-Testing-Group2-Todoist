@@ -45,11 +45,11 @@ mvn clean verify
 
 Contributors names and contact info
 
-* LNasya Syafitrie [<img alt="alt_text" width="20px" src="/docs/github_logo.png" />]([link to your URL](https://github.com/LNasyaS))  [<img alt="alt_text" width="20px" src="/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/lnasyaftre/)
+* LNasya Syafitrie [<img alt="alt_text" width="20px" src="/docs/github_logo.png" />](https://github.com/LNasyaS)  [<img alt="alt_text" width="20px" src="/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/lnasyaftre/)
 
 
-* Syafiq Ali Zhafran [<img alt="alt_text" width="20px" src="/docs/github_logo.png" />]([link to your URL](https://github.com/SyafiqAliZ))  [<img alt="alt_text" width="20px" src="/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/syafiq-ali-zhafran/)
+* Syafiq Ali Zhafran [<img alt="alt_text" width="20px" src="/docs/github_logo.png" />](https://github.com/SyafiqAliZ)  [<img alt="alt_text" width="20px" src="/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/syafiq-ali-zhafran/)
 
 
-* Widi Pamungkas [<img alt="alt_text" width="20px" src="/docs/github_logo.png" />]([link to your URL](https://github.com/widipamungkas))  [<img alt="alt_text" width="20px" src="/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/widi-pamungkas-5b87501b7/)
+* Widi Pamungkas [<img alt="alt_text" width="20px" src="/docs/github_logo.png" />](https://github.com/widipamungkas)  [<img alt="alt_text" width="20px" src="/docs/linkedin_logo.png"/>](https://www.linkedin.com/in/widi-pamungkas-5b87501b7/)
 
